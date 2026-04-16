@@ -94,5 +94,5 @@ streamlit run app/app.py
 - Monitoring/drift checks + scheduled retraining
 
 ## Author
-Your Name  
-LinkedIn: <link> • GitHub: <link>
+Prarthana Panikar
+
